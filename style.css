@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+h1{
+    font-size: 50px;
+}
+.color_hightlight{
+    color: #ffd151f3;
+}
+.frist_section{
+    height: 400px;
+}
+.half_width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding-left: 2%;
+    
+}
+.image_part img{
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+   
+}
+.sec_title{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.button_b{
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-weight: 700;
+    border-radius: 5px;
+    background-image: linear-gradient(#a07e20f3, #ffd151f3);
+    color: white;
+    border: none;
+
+}
+.sec_section{
+    height: 400px;
+}
+.second_half{
+    height: 400px;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+   
+}
+.image_section img{
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+.card_section{
+    height: 450px;
+}
+
+.card_background{
+    height: 250px;
+    border-radius: 5px;
+   
+    background-color: white;
+    box-shadow: 5px 5px 20px gainsboro;
+}
+.card_background{
+    width: 30%;
+    float: left;
+    margin-left: 12%;
+    margin-top: 5%;
+    padding-left: 2%;
+}
+.card_background h2{
+    padding: 20px;
+}
+.card_background h4{
+    padding-left: 20PX;
+    color: #ffd151f3;;
+}
+.card_background P{
+    padding: 20px;
+    color: gray;
+}
+#card_color_1{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, #a07e20f3, #ffd151f3);
+    border-image-slice: 1;
+}
+#card_color_2{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, #a0208ff3, #3cc2daf3);
+    border-image-slice: 1;
+}
+.copyright_claim{
+    text-align: center;
+}
+
